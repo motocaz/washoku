@@ -1,0 +1,539 @@
+# Translation of Themes - Hello Elementor in Korean
+# This file is distributed under the same license as the Themes - Hello Elementor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-24 06:47:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Themes - Hello Elementor\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work seamlessly with the Elementor site builder plugin. The theme is free, open-source, and designed for users who want a flexible, easy-to-use, and customizable website. The theme, which is optimized for performance, provides a solid foundation for users to build their own unique designs using the Elementor drag-and-drop site builder. Its simplicity and flexibility make it a great choice for both beginners and experienced Web Creators."
+msgstr "헬로우 엘리멘터는 엘리멘터 사이트 빌더 플러그인과 원활하게 작동하기 위해 특별히 제작된 가볍고 미니멀한 워드프레스 테마입니다. 테마는 자유롭고 오픈 소스이며 유연하고 사용하기 쉬우며 사용자 지정 가능한 웹 사이트를 원하는 사용자를 위해 설계되었습니다. 성능에 최적화된 테마는 사용자가 엘리멘터 드래그 앤 드롭 사이트 빌더를 사용하여 자신만의 독특한 디자인을 만들 수 있는 견고한 기반을 제공합니다. 단순함과 유연성으로 인해 초보자와 경험 많은 웹 크리에이터 모두에게 좋은 선택이 됩니다."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hello Elementor"
+msgstr "헬로우 엘리멘터"
+
+#: template-parts/dynamic-header.php:68
+msgid "Mobile menu"
+msgstr "모바일 메뉴"
+
+#: template-parts/dynamic-header.php:54 template-parts/header.php:43
+msgid "Main menu"
+msgstr "메인 메뉴"
+
+#: template-parts/dynamic-footer.php:48 template-parts/footer.php:21
+msgid "Footer menu"
+msgstr "푸터 메뉴"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:54 template-parts/search.php:60
+msgid "Next %s"
+msgstr "다음 %s"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:50 template-parts/search.php:56
+msgid "%s Previous"
+msgstr "%s 이전"
+
+#. translators: 1: Breakpoint label, 2: Breakpoint value.
+#: includes/settings/settings-header.php:535
+msgid "%1$s (> %2$dpx)"
+msgstr "%1$s (> %2$dpx)"
+
+#: includes/settings/settings-footer.php:249
+#: includes/settings/settings-header.php:234
+msgid "Side Margins"
+msgstr "측면 여백"
+
+#: includes/settings/settings-footer.php:181
+#: includes/settings/settings-header.php:166
+msgid "Tagline Gap"
+msgstr "태그 라인 간격"
+
+#: includes/settings/settings-footer.php:156
+#: includes/settings/settings-header.php:141
+msgid "After"
+msgstr "후에"
+
+#: includes/settings/settings-footer.php:152
+#: includes/settings/settings-header.php:137
+msgid "Below"
+msgstr "아래"
+
+#: includes/settings/settings-footer.php:148
+#: includes/settings/settings-header.php:133
+msgid "Before"
+msgstr "전에"
+
+#: includes/settings/settings-footer.php:145
+#: includes/settings/settings-header.php:130
+msgid "Tagline Position"
+msgstr "태그 라인 위치"
+
+#: includes/elementor-functions.php:220
+msgid "Hello Theme"
+msgstr "헬로우 테마"
+
+#: includes/customizer-functions.php:63
+msgid "Upgrade Now"
+msgstr "지금 업그레이드하기"
+
+#: includes/customizer-functions.php:62
+msgid "Build and customize every part of your website, including Theme Parts with Elementor Pro."
+msgstr "엘리멘터 프로로 테마 파트를 포함한 웹사이트의 모든 부분을 구축하고 사용자 정의하세요."
+
+#: includes/customizer-functions.php:61
+msgid "Customize your entire website with Elementor Pro"
+msgstr "엘리멘터 프로로 웹사이트 전체를 맞춤 설정하세요"
+
+#: includes/settings/settings-footer.php:600
+#: includes/settings/settings-header.php:634
+msgid "Elementor Pro"
+msgstr "엘리멘터 프로"
+
+#: includes/settings/settings-footer.php:590
+#: includes/settings/settings-header.php:624
+msgid "Get Elementor Pro"
+msgstr "엘리멘터 프로 다운로드"
+
+#: includes/customizer/customizer-action-links.php:57
+#: includes/customizer/customizer-action-links.php:76
+#: includes/customizer/customizer-action-links.php:86
+#: includes/customizer/customizer-action-links.php:96
+#: assets/js/hello-admin.js:172 assets/js/hello-admin.js:180
+#: assets/js/hello-admin.js:188 assets/js/hello-admin.js:196
+msgid "Elementor"
+msgstr "엘리멘터"
+
+#: includes/settings/settings-header.php:22
+msgid "Hello Theme Header"
+msgstr "헬로우 테마 헤더"
+
+#. translators: %s: Link that opens the theme settings page.
+#: includes/settings/settings-footer.php:102
+#: includes/settings/settings-header.php:88
+msgid "Note: Hiding all the elements, only hides them visually. To disable them completely go to <a href=\"%s\">Theme Settings</a> ."
+msgstr "참고: 모든 요소를 숨기면 시각적으로만 숨겨집니다. 완전히 비활성화하려면 <a href=\"%s\">테마 설정</a>으로 이동하세요."
+
+#: includes/settings/settings-footer.php:21
+msgid "Hello Theme Footer"
+msgstr "헬로우 테마 푸터"
+
+#: includes/elementor-functions.php:225
+msgid "Learn More"
+msgstr "자세히 알아보기"
+
+#: includes/elementor-functions.php:223
+msgid "Customize and style the builtin Hello Theme’s cross-site header & footer from the Elementor \"Site Settings\" panel."
+msgstr "엘리멘터 \"사이트 설정\" 패널에서 기본 제공되는 헬로우 테마의 교차 사이트 헤더 및 바닥글을 사용자 정의하고 스타일을 지정하세요."
+
+#: includes/customizer/customizer-action-links.php:99
+#: assets/js/hello-admin.js:199
+msgid "Start Designing"
+msgstr "디자인 시작"
+
+#: includes/customizer/customizer-action-links.php:98
+#: assets/js/hello-admin.js:198
+msgid "Customize your cross-site header & footer from Elementor’s \"Site Settings\" panel."
+msgstr "엘리멘터의 \"사이트 설정\" 패널에서 크로스 사이트 헤더 및 바닥글을 사용자 정의하세요."
+
+#: includes/customizer/customizer-action-links.php:97
+#: assets/js/hello-admin.js:197
+msgid "Style cross-site header & footer"
+msgstr "교차 사이트 머리글 및 바닥글 스타일 지정"
+
+#: includes/customizer/customizer-action-links.php:89
+#: assets/js/hello-admin.js:191
+msgid "Activate header & footer experiment"
+msgstr "머리글 및 바닥글 실험 활성화"
+
+#: includes/customizer/customizer-action-links.php:88
+#: assets/js/hello-admin.js:190
+msgid "Design your cross-site header & footer from Elementor’s \"Site Settings\" panel."
+msgstr "엘리멘터의 \"사이트 설정\" 패널에서 크로스 사이트 헤더 및 바닥글을 디자인합니다."
+
+#: includes/customizer/customizer-action-links.php:87
+#: assets/js/hello-admin.js:189
+msgid "Style using Elementor"
+msgstr "엘리멘터를 사용한 스타일"
+
+#: includes/customizer/customizer-action-links.php:59
+#: includes/customizer/customizer-action-links.php:78
+#: assets/js/hello-admin.js:174 assets/js/hello-admin.js:182
+msgid "Create cross-site header & footer using Elementor."
+msgstr "엘리멘터를 사용하여 교차 사이트 헤더 및 푸터를 만듭니다."
+
+#: includes/customizer-functions.php:18 includes/elementor-functions.php:219
+msgid "Header & Footer"
+msgstr "머리글 및 바닥글"
+
+#: includes/admin-functions.php:49
+msgid "Once you download and activate the plugin, you are only one click away from building an amazing website."
+msgstr "플러그인을 다운로드하고 활성화하면 클릭 한 번으로 멋진 웹사이트를 구축할 수 있습니다."
+
+#: includes/admin-functions.php:40
+msgid "Once you activate the plugin, you are only one click away from building an amazing website."
+msgstr "플러그인을 활성화하면 클릭 한 번으로 멋진 웹사이트를 만들 수 있습니다."
+
+#: includes/admin-functions.php:33
+msgid "The Hello Theme is a lightweight starter theme that works perfectly with the Elementor award-winning site builder plugin."
+msgstr "헬로우 테마는 수상 경력에 빛나는 엘리멘터 사이트 빌더 플러그인과 완벽하게 작동하는 가벼운 스타터 테마입니다."
+
+#: includes/settings-functions.php:19
+msgid "Theme Settings"
+msgstr "테마 설정"
+
+#: includes/settings-functions.php:18 assets/js/hello-admin.js:140
+#: assets/js/hello-admin.js:234
+msgid "Hello Theme Settings"
+msgstr "헬로우 테마 설정"
+
+#. translators: %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:375
+#: includes/settings/settings-header.php:365
+#: includes/settings/settings-header.php:382
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's title"
+msgstr "<a href=\"%s\">사이트 아이덴티티</a>로 이동하여 사이트 제목을 관리합니다."
+
+#: includes/admin-functions.php:137
+msgid "Explore Elementor Site Builder Plugin"
+msgstr "엘리멘터 사이트 빌더 플러그인 살펴보기"
+
+#: includes/settings/settings-footer.php:594
+#: includes/settings/settings-header.php:628
+msgid "Upgrade"
+msgstr "업그레이드"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "콘텐츠로 건너뛰기"
+
+#: includes/settings/settings-header.php:638
+msgid "Create Header"
+msgstr "헤더 만들기"
+
+#: includes/settings/settings-header.php:635
+msgid "Create a custom header with the Theme Builder"
+msgstr "테마 빌더로 사용자 정의 헤더 만들기"
+
+#: includes/settings/settings-header.php:625
+msgid "Create a custom header with multiple options"
+msgstr "여러 옵션이 있는 사용자 정의 헤더 만들기"
+
+#: includes/settings/settings-header.php:574
+msgid "Toggle Color"
+msgstr "색상 토글"
+
+#: includes/settings/settings-header.php:541
+msgid "None"
+msgstr "없음"
+
+#: includes/settings/settings-header.php:546
+msgid "Breakpoint"
+msgstr "중단점"
+
+#: includes/settings/settings-header.php:518
+msgid "Dropdown"
+msgstr "드롭다운"
+
+#: includes/settings/settings-header.php:517
+msgid "Horizontal"
+msgstr "가로"
+
+#: includes/settings/settings-header.php:513
+msgid "Menu Layout"
+msgstr "메뉴 레이아웃"
+
+#: includes/settings/settings-footer.php:604
+msgid "Create Footer"
+msgstr "푸터 만들기"
+
+#: includes/settings/settings-footer.php:602
+#: includes/settings/settings-header.php:636
+msgid "With the Theme Builder you can jump directly into each part of your site"
+msgstr "테마 빌더를 사용하면 사이트의 각 부분으로 바로 이동할 수 있습니다."
+
+#: includes/settings/settings-footer.php:601
+msgid "Create a custom footer with the Theme Builder"
+msgstr "테마 빌더로 사용자 정의 바닥글 만들기"
+
+#: includes/settings/settings-footer.php:592
+#: includes/settings/settings-header.php:626
+msgid "Upgrade to Elementor Pro and enjoy free design and many more features"
+msgstr "엘리멘터 프로로 업그레이드하고 무료 디자인 및 더 많은 기능을 즐겨보세요."
+
+#: includes/settings/settings-footer.php:591
+msgid "Create a custom footer with multiple options"
+msgstr "여러 옵션으로 사용자 정의 바닥글 만들기"
+
+#: includes/settings/settings-footer.php:534
+msgid "All rights reserved"
+msgstr "모든 권리 보유"
+
+#: includes/settings/settings-footer.php:492
+#: includes/settings/settings-header.php:560
+msgid "Color"
+msgstr "색상"
+
+#: includes/settings/settings-footer.php:484
+#: includes/settings/settings-header.php:505
+msgid "Changes will be reflected in the preview only after the page reloads."
+msgstr "변경 사항은 페이지가 다시 로드된 후에만 미리 보기에 반영됩니다."
+
+#: includes/settings/settings-footer.php:476
+#: includes/settings/settings-header.php:497
+msgid "Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your menus."
+msgstr "<a href=\"%s\" target=\"_blank\">메뉴 화면</a>으로 이동하여 메뉴를 관리합니다."
+
+#: includes/settings/settings-footer.php:463
+#: includes/settings/settings-header.php:484
+msgid "Go to <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr "<a href=\"%s\" target=\"_blank\">메뉴 화면</a>으로 이동하여 메뉴를 생성합니다."
+
+#: includes/settings/settings-footer.php:463
+#: includes/settings/settings-header.php:484
+msgid "There are no menus in your site."
+msgstr "사이트에 메뉴가 없습니다."
+
+#: includes/settings/settings-footer.php:453
+#: includes/settings/settings-header.php:474
+msgid "— Select a Menu —"
+msgstr "- 메뉴 선택 -"
+
+#. translators: %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:431
+#: includes/settings/settings-header.php:445
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's tagline"
+msgstr "사이트의 태그 라인을 관리하려면 <a href=\"%s\">사이트 아이덴티티</a>로 이동합니다."
+
+#: includes/settings/settings-footer.php:360
+#: includes/settings/settings-footer.php:417
+#: includes/settings/settings-footer.php:504
+#: includes/settings/settings-footer.php:556
+#: includes/settings/settings-header.php:362
+#: includes/settings/settings-header.php:431
+#: includes/settings/settings-header.php:589
+msgid "Typography"
+msgstr "타이포그래피"
+
+#: includes/settings/settings-footer.php:344
+#: includes/settings/settings-footer.php:402
+#: includes/settings/settings-footer.php:541
+#: includes/settings/settings-header.php:346
+#: includes/settings/settings-header.php:416
+msgid "Text Color"
+msgstr "텍스트 색상"
+
+#. translators: %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:316
+#: includes/settings/settings-header.php:318
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's logo"
+msgstr "<a href=\"%s\">사이트 아이덴티티</a>로 이동하여 사이트 로고를 관리합니다."
+
+#: includes/settings/settings-footer.php:313
+#: includes/settings/settings-header.php:315
+msgid "Logo Width"
+msgstr "로고 너비"
+
+#: includes/settings/settings-footer.php:303
+#: includes/settings/settings-header.php:305
+msgid "Title"
+msgstr "제목"
+
+#: includes/settings/settings-footer.php:302
+#: includes/settings/settings-header.php:304
+msgid "Logo"
+msgstr "로고"
+
+#: includes/settings/settings-footer.php:298
+#: includes/settings/settings-header.php:300
+msgid "Type"
+msgstr "유형"
+
+#: includes/settings/settings-footer.php:275
+#: includes/settings/settings-header.php:270
+msgid "Background"
+msgstr "배경"
+
+#: includes/settings/settings-footer.php:223
+#: includes/settings/settings-header.php:208
+msgid "Content Width"
+msgstr "콘텐츠 너비"
+
+#: includes/settings/settings-footer.php:211
+#: includes/settings/settings-header.php:196
+msgid "Full Width"
+msgstr "전체 너비"
+
+#: includes/settings/settings-footer.php:210
+#: includes/settings/settings-header.php:195
+msgid "Boxed"
+msgstr "박스형"
+
+#: includes/settings/settings-footer.php:208
+#: includes/settings/settings-header.php:193
+msgid "Width"
+msgstr "폭"
+
+#: includes/settings/settings-footer.php:126
+#: includes/settings/settings-header.php:111
+msgid "Centered"
+msgstr "가운데"
+
+#: includes/settings/settings-footer.php:122
+#: includes/settings/settings-header.php:107
+msgid "Inverted"
+msgstr "반전"
+
+#: includes/settings/settings-footer.php:130
+#: includes/settings/settings-header.php:115
+msgid "Default"
+msgstr "기본값"
+
+#: includes/settings/settings-footer.php:119
+#: includes/settings/settings-header.php:104
+msgid "Layout"
+msgstr "레이아웃"
+
+#: includes/settings/settings-footer.php:88
+#: includes/settings/settings-footer.php:516
+msgid "Copyright"
+msgstr "저작권"
+
+#: includes/settings/settings-footer.php:76
+#: includes/settings/settings-footer.php:444
+#: includes/settings/settings-footer.php:472
+#: includes/settings/settings-header.php:75
+#: includes/settings/settings-header.php:458
+#: includes/settings/settings-header.php:493
+#: template-parts/dynamic-header.php:65
+msgid "Menu"
+msgstr "메뉴"
+
+#: includes/settings/settings-footer.php:64
+#: includes/settings/settings-footer.php:392
+#: includes/settings/settings-header.php:64
+#: includes/settings/settings-header.php:399
+msgid "Tagline"
+msgstr "태그 라인"
+
+#: includes/settings/settings-footer.php:55
+#: includes/settings/settings-footer.php:67
+#: includes/settings/settings-footer.php:79
+#: includes/settings/settings-footer.php:91
+#: includes/settings/settings-header.php:56
+#: includes/settings/settings-header.php:67
+#: includes/settings/settings-header.php:78
+msgid "Hide"
+msgstr "숨기기"
+
+#: includes/settings/settings-footer.php:54
+#: includes/settings/settings-footer.php:66
+#: includes/settings/settings-footer.php:78
+#: includes/settings/settings-footer.php:90
+#: includes/settings/settings-header.php:55
+#: includes/settings/settings-header.php:66
+#: includes/settings/settings-header.php:77
+msgid "Show"
+msgstr "표시"
+
+#: includes/settings/settings-footer.php:52
+#: includes/settings/settings-footer.php:288
+#: includes/settings/settings-header.php:53
+#: includes/settings/settings-header.php:283
+msgid "Site Logo"
+msgstr "사이트 로고"
+
+#: includes/admin-functions.php:132
+msgid "Get Elementor"
+msgstr "엘리멘터 다운로드"
+
+#: functions.php:31 includes/settings/settings-footer.php:44
+msgid "Footer"
+msgstr "바닥글"
+
+#: functions.php:30 includes/settings/settings-header.php:45
+msgid "Header"
+msgstr "헤더"
+
+#: includes/admin-functions.php:135
+msgid "Thanks for installing the Hello Theme!"
+msgstr "헬로우 테마를 설치해 주셔서 감사합니다!"
+
+#: includes/admin-functions.php:51
+#: includes/customizer/customizer-action-links.php:58
+#: includes/customizer/customizer-action-links.php:60
+#: assets/js/hello-admin.js:173 assets/js/hello-admin.js:175
+msgid "Install Elementor"
+msgstr "엘리멘터 설치"
+
+#: includes/admin-functions.php:42
+#: includes/customizer/customizer-action-links.php:77
+#: includes/customizer/customizer-action-links.php:79
+#: assets/js/hello-admin.js:181 assets/js/hello-admin.js:183
+msgid "Activate Elementor"
+msgstr "엘리멘터 활성화"
+
+#: comments.php:37
+msgctxt "comments title"
+msgid "%s Response"
+msgid_plural "%s Responses"
+msgstr[0] "%s개의 응답"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Response"
+msgstr "한 개의 응답"
+
+#: template-parts/search.php:43
+msgid "It seems we can't find what you're looking for."
+msgstr "찾고 계신 내용을 찾을 수 없는 것 같습니다."
+
+#: template-parts/search.php:17
+msgid "Search results for: "
+msgstr "검색 결과 "
+
+#: template-parts/dynamic-footer.php:34 template-parts/dynamic-header.php:40
+#: template-parts/header.php:30
+msgid "Home"
+msgstr "홈"
+
+#: template-parts/single.php:31
+msgid "Tagged "
+msgstr "태그 "
+
+#: template-parts/404.php:21
+msgid "It looks like nothing was found at this location."
+msgstr "이 위치에서 아무것도 찾을 수 없는 것 같습니다."
+
+#: template-parts/404.php:16
+msgid "The page can&rsquo;t be found."
+msgstr "페이지를 찾을 수 없습니다."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Elementor Team"
+msgstr "엘리멘터 팀"

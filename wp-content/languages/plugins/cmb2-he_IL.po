@@ -1,0 +1,482 @@
+# Translation of Plugins - CMB2 - Development (trunk) in Hebrew
+# This file is distributed under the same license as the Plugins - CMB2 - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-14 22:00:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: he_IL\n"
+"Project-Id-Version: Plugins - CMB2 - Development (trunk)\n"
+
+#: example-functions.php:185
+msgid "Hey there, I'm a read-only field"
+msgstr "זהו שדה לקריאה בלבד"
+
+#: includes/CMB2_Base.php:510 includes/types/CMB2_Type_Base.php:157
+msgid "Invalid %1$s method: %2$s"
+msgstr "המתודה %1$s לא תקינה: %2$s"
+
+#: includes/CMB2_Field.php:1594
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr "לשדה לא הוגדר cmb_id."
+
+#: example-functions.php:194
+msgid "Custom Rendered Field"
+msgstr "שדה מותאם מרונדר"
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: includes/CMB2_Ajax.php:189 includes/helper-functions.php:107
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr "לא נמצאו תוצאות עבור %1$s. ראה מידע נוסף ב-%2$s."
+
+#: example-functions.php:644
+msgid "Category Metabox"
+msgstr "קופסאת קטגוריות"
+
+#: example-functions.php:659
+msgid "Term Image"
+msgstr "תמונה"
+
+#: example-functions.php:666
+msgid "Arbitrary Term Field"
+msgstr "שדה שרירותי"
+
+#: includes/CMB2_Hookup.php:188
+msgid "Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress install."
+msgstr "שדות מיוחדים לטקסונומיות הוא מאפיין שזמין בוורדפרס 4.4 ומעלה. יש לשדרג את התקנת הוורדפרס."
+
+#: includes/CMB2_Hookup.php:192
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr "להגדרת שדות מיוחדים עבור טקסונומיות יש להגדיר פרמטר 'taxonomies'."
+
+#: example-functions.php:544
+msgid "Description"
+msgstr "תיאור"
+
+#: includes/CMB2.php:618
+msgid "Click to toggle"
+msgstr "לחץ לשינוי"
+
+#: includes/CMB2_Field.php:1476 includes/CMB2_Field.php:1480
+msgid "None"
+msgstr "ללא"
+
+#: includes/CMB2_JS.php:177 includes/CMB2_JS.php:222
+msgid "Clear"
+msgstr "נקה"
+
+#: includes/CMB2_JS.php:178
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: includes/CMB2_JS.php:179
+msgid "Select Color"
+msgstr "בחר צבע"
+
+#: includes/CMB2_JS.php:180
+msgid "Current Color"
+msgstr "צבע נוכחי"
+
+#: includes/CMB2_JS.php:220
+msgid "Today"
+msgstr "היום"
+
+#: includes/CMB2_JS.php:221 includes/CMB2_JS.php:231
+msgid "Done"
+msgstr "הושלם"
+
+#: includes/CMB2_JS.php:227
+msgid "Hour"
+msgstr "שעה"
+
+#: includes/CMB2_JS.php:228
+msgid "Minute"
+msgstr "דקה"
+
+#: includes/CMB2_JS.php:240 includes/types/CMB2_Type_File_Base.php:75
+msgid "Remove Image"
+msgstr "הסר תמונה"
+
+#: includes/CMB2_JS.php:241 includes/CMB2_Types.php:408
+#: includes/types/CMB2_Type_File_Base.php:95
+msgid "Remove"
+msgstr "הסרה"
+
+#: includes/CMB2_JS.php:243 includes/types/CMB2_Type_File_Base.php:93
+msgid "Download"
+msgstr "הורדה"
+
+#: includes/helper-functions.php:308
+msgid "Save"
+msgstr "שמירה"
+
+#: includes/CMB2_JS.php:226
+msgid "Time"
+msgstr "זמן"
+
+#: includes/CMB2_JS.php:212
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "dd/mm/yy"
+
+#: includes/CMB2_JS.php:229
+msgid "Second"
+msgstr "שניה"
+
+#: includes/CMB2_JS.php:230
+msgid "Now"
+msgstr "עכשיו"
+
+#: includes/CMB2_JS.php:232
+msgctxt "Valid formatting string, as per http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr "hh:mm TT"
+
+#: includes/CMB2_JS.php:238
+msgid "Use this file"
+msgstr "השתמש בקובץ זה"
+
+#: includes/CMB2_JS.php:239
+msgid "Use these files"
+msgstr "השתמש בקבצים אלה"
+
+#: includes/CMB2_Field_Display.php:453 includes/CMB2_JS.php:242
+#: includes/types/CMB2_Type_File_Base.php:90
+msgid "File:"
+msgstr "קובץ:"
+
+#. Plugin Name of the plugin
+msgid "CMB2"
+msgstr "CMB2"
+
+#: includes/CMB2_JS.php:225
+msgid "Choose Time"
+msgstr "בחר זמן"
+
+#: includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr "הוסף שורה"
+
+#: includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr "הוסף או העלה קובץ"
+
+#: includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr "הוסף או העלה קבצים"
+
+#: includes/CMB2_Field.php:1444
+msgid "Remove Group"
+msgstr "הסר קבוצה"
+
+#: example-functions.php:438
+msgid "Multiple Files"
+msgstr "שדות מרובים"
+
+#: example-functions.php:446
+msgid "oEmbed"
+msgstr "oEmbed"
+
+#: example-functions.php:537
+msgid "Entry Title"
+msgstr "כותרת"
+
+#: example-functions.php:551
+msgid "Entry Image"
+msgstr "תמונה"
+
+#: example-functions.php:590
+msgid "Avatar"
+msgstr "צלמית משתמש"
+
+#: example-functions.php:597
+msgid "Facebook URL"
+msgstr "כתובת פייסבוק"
+
+#: example-functions.php:604
+msgid "Twitter URL"
+msgstr "כתובת טוויטר"
+
+#: example-functions.php:611
+msgid "Google+ URL"
+msgstr "כתובת גוגל+"
+
+#: example-functions.php:618
+msgid "Linkedin URL"
+msgstr "כתובת לינקדאין"
+
+#: example-functions.php:625
+msgid "User Field"
+msgstr "שדה משתמש"
+
+#: includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr "הסר הטמעה"
+
+#: includes/CMB2_Field.php:1443
+msgid "Add Group"
+msgstr "הוסף קבוצה"
+
+#: includes/CMB2_JS.php:214
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "א', ב', ג', ד', ה', ו', ש'"
+
+#: includes/CMB2_JS.php:215
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "ראשון, שני, שלישי, רביעי, חמישי, שישי, שבת"
+
+#: includes/CMB2_JS.php:213
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "יום ראשון, יום שני, יום שלישי, יום רביעי, יום חמישי, יום שישי, יום שבת"
+
+#: example-functions.php:432
+msgid "Upload an image or enter a URL."
+msgstr "העלה תמונה או הזן כתובת."
+
+#: example-functions.php:439
+msgid "Upload or add multiple images/attachments."
+msgstr "העלה/הוסף תמונות או קבצים מצורפים."
+
+#: includes/CMB2_JS.php:216
+msgid "January, February, March, April, May, June, July, August, September, October, November, December"
+msgstr "ינואר, פברואר, מרץ, אפריל, מאי, יוני, יולי, אוגוסט, ספטמבר, אוקטובר, נובמבר, דצמבר"
+
+#: includes/CMB2_JS.php:217
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "ינו', פבר', מרץ, אפר', מאי, יונ', יול', אוג', ספט', אוק', נוב', דצמ'"
+
+#: example-functions.php:521
+msgid "Entry {#}"
+msgstr "רשומה {#}"
+
+#: example-functions.php:582 example-functions.php:651
+msgid "Extra Info"
+msgstr "מידע נוסף"
+
+#: example-functions.php:716
+msgid "Site Background Color"
+msgstr "צבע רקע לאתר"
+
+#: example-functions.php:413
+msgid "Check One"
+msgstr "בדיקה ראשונה"
+
+#: example-functions.php:414
+msgid "Check Two"
+msgstr "בדיקה שנייה"
+
+#: example-functions.php:415
+msgid "Check Three"
+msgstr "בדיקה שלישית"
+
+#: example-functions.php:421
+msgid "Test wysiwyg"
+msgstr "בדיקת עורך ויזואלי"
+
+#: example-functions.php:431
+msgid "Test Image"
+msgstr "בדיקת תמונה"
+
+#: example-functions.php:545
+msgid "Write a short description for this entry"
+msgstr "כיתבו תיאור קצר עבור רשומה זו"
+
+#: example-functions.php:557
+msgid "Image Caption"
+msgstr "כיתוב תמונה"
+
+#: example-functions.php:575
+msgid "User Profile Metabox"
+msgstr "קופסאת פרופיל משתמש"
+
+#: includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr "נא לנסות שנית"
+
+#: example-functions.php:481
+msgid "About Page Metabox"
+msgstr "קופסאת עמוד אודות"
+
+#: includes/CMB2_JS.php:218
+msgid "Next"
+msgstr "הבא"
+
+#: includes/CMB2_JS.php:219
+msgid "Prev"
+msgstr "קודם"
+
+#: includes/CMB2_JS.php:244
+msgid "Select / Deselect All"
+msgstr "בחירת / הסרת הכל"
+
+#: example-functions.php:511
+msgid "Repeating Field Group"
+msgstr "קבוצת שדות חוזרים"
+
+#: includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr "אין מונחים"
+
+#: example-functions.php:522
+msgid "Add Another Entry"
+msgstr "הוסף רשומה נוספת"
+
+#: example-functions.php:523
+msgid "Remove Entry"
+msgstr "הסר רשומה"
+
+#: example-functions.php:519
+msgid "Generates reusable form entries"
+msgstr "יוצר שדות חוזרים"
+
+#: example-functions.php:400
+msgid "Test Checkbox"
+msgstr "בדיקת תיבת סימון"
+
+#: example-functions.php:407
+msgid "Test Multi Checkbox"
+msgstr "בדיקת תיבות סימון מרובות"
+
+#: example-functions.php:391
+msgid "Test Taxonomy Multi Checkbox"
+msgstr "בדיקת טקסונומיה בתיבות סימון מרובות"
+
+#: example-functions.php:369
+msgid "Test Taxonomy Radio"
+msgstr "בדיקת טקסונומיה בכפתורי רדיו"
+
+#: example-functions.php:383
+msgid "Test Taxonomy Select"
+msgstr "בדיקת טקסונומיה בתיבת בחירה"
+
+#. Description of the plugin
+msgid "CMB2 will create metaboxes and forms with custom fields that will blow your mind."
+msgstr "CMB2 יצור קופסאות עבור טפסים, עם שדות מותאמים בעיצוב מהמם."
+
+#: includes/CMB2.php:199
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr "נדרש פרמטר ID."
+
+#: example-functions.php:227 example-functions.php:228
+msgid "Time zone"
+msgstr "אזור זמן"
+
+#: example-functions.php:202
+msgid "Website URL"
+msgstr "כתובת אתר"
+
+#: example-functions.php:149 example-functions.php:162
+#: example-functions.php:175 example-functions.php:182
+#: example-functions.php:195 example-functions.php:203
+#: example-functions.php:212 example-functions.php:220
+#: example-functions.php:235 example-functions.php:243
+#: example-functions.php:251 example-functions.php:268
+#: example-functions.php:277 example-functions.php:293
+#: example-functions.php:300 example-functions.php:307
+#: example-functions.php:332 example-functions.php:345
+#: example-functions.php:358 example-functions.php:370
+#: example-functions.php:384 example-functions.php:392
+#: example-functions.php:401 example-functions.php:408
+#: example-functions.php:422 example-functions.php:493
+#: example-functions.php:583 example-functions.php:591
+#: example-functions.php:598 example-functions.php:605
+#: example-functions.php:612 example-functions.php:619
+#: example-functions.php:626 example-functions.php:652
+#: example-functions.php:660 example-functions.php:667
+#: example-functions.php:717
+msgid "field description (optional)"
+msgstr "תיאור שדה (אפציונאלי)"
+
+#: example-functions.php:337 example-functions.php:350
+#: example-functions.php:362
+msgid "Option One"
+msgstr "אפשרות ראשונה"
+
+#: example-functions.php:338 example-functions.php:351
+#: example-functions.php:363
+msgid "Option Two"
+msgstr "אפשרות שנייה"
+
+#: example-functions.php:339 example-functions.php:352
+#: example-functions.php:364
+msgid "Option Three"
+msgstr "אפשרות שלישית"
+
+#: example-functions.php:325
+msgid "This is a title description"
+msgstr "זה תיאור כותרת"
+
+#: example-functions.php:148 example-functions.php:492
+msgid "Test Text"
+msgstr "בדיקת טקסט"
+
+#: example-functions.php:161
+msgid "Test Text Small"
+msgstr "בדיקת טקסט קטן"
+
+#: example-functions.php:174
+msgid "Test Text Medium"
+msgstr "בדיקת טקסט גדול"
+
+#: example-functions.php:211
+msgid "Test Text Email"
+msgstr "בדיקת טקסט אימייל"
+
+#: example-functions.php:219
+msgid "Test Time"
+msgstr "בדיקת שעה"
+
+#: example-functions.php:234
+msgid "Test Date Picker"
+msgstr "בדיקת תאריך"
+
+#: example-functions.php:242
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr "בדיקת תאריך (זמן יוניקס)"
+
+#: example-functions.php:267
+msgid "Test Money"
+msgstr "בדיקת מטבע"
+
+#: example-functions.php:276
+msgid "Test Color Picker"
+msgstr "בדיקת צבע"
+
+#: example-functions.php:324
+msgid "Test Title Weeeee"
+msgstr "בדיקת כותרת"
+
+#: example-functions.php:331
+msgid "Test Select"
+msgstr "בדיקת בחירה"
+
+#: example-functions.php:115
+msgid "Test Metabox"
+msgstr "קופסאת ניסוי"
+
+#: example-functions.php:250
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr "בדיקת תאריך/שעה (זמן יוניקס)"
+
+#: example-functions.php:357
+msgid "Test Radio"
+msgstr "בדיקת כפתורי רדיו"
+
+#: example-functions.php:344
+msgid "Test Radio inline"
+msgstr "בדיקת כפתורי רדיו בשורה"
+
+#: example-functions.php:292
+msgid "Test Text Area"
+msgstr "בדיקת אזור טקסט"
+
+#: example-functions.php:299
+msgid "Test Text Area Small"
+msgstr "בדיקת אזור טקסט קטן"
+
+#: example-functions.php:306
+msgid "Test Text Area for Code"
+msgstr "בדיקת אזור טקסט עבור קוד"

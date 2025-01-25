@@ -1,0 +1,132 @@
+[01-Apr-2024 21:52:57 UTC] PHP Warning:  Attempt to read property "title" on null in /home/japanese/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[01-Apr-2024 21:53:12 UTC] PHP Warning:  Attempt to read property "title" on null in /home/japanese/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[01-Apr-2024 22:14:55 UTC] PHP Warning:  Attempt to read property "title" on null in /home/japanese/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[01-Apr-2024 23:23:48 UTC] PHP Warning:  Attempt to read property "title" on null in /home/japanese/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[02-Apr-2024 00:04:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/japanese/public_html/wp-includes/script-loader.php:2925) in /home/japanese/public_html/wp-includes/pluggable.php on line 1435
+[02-Apr-2024 00:04:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/japanese/public_html/wp-includes/script-loader.php:2925) in /home/japanese/public_html/wp-includes/pluggable.php on line 1438
+[02-Apr-2024 00:04:57 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:04:57 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:05:08 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:05:08 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:05:16 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:05:16 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:05:30 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:05:30 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:07:54 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:07:54 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:08:32 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:08:32 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:08:58 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 00:08:58 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/japanese/public_html/wp-includes/class-wp-list-util.php on line 168
+[02-Apr-2024 22:43:08 UTC] PHP Warning:  Undefined array key 1 in /home/japanese/public_html/wp-content/plugins/translatepress-multilingual/includes/class-plugin-optin.php on line 88
+[02-Apr-2024 22:43:08 UTC] WordPress database error Table 'japanese_wp684.wpt3_trp_dictionary_en_us_' doesn't exist for query SELECT COUNT(id) FROM wpt3_trp_dictionary_en_us_ WHERE translated != '' made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, TRP_Plugin_Optin->process_optin_actions
+[08-Apr-2024 02:34:25 UTC] PHP Warning:  Attempt to read property "title" on null in /home/japanese/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Apr-2024 02:34:35 UTC] PHP Warning:  Attempt to read property "title" on null in /home/japanese/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[10-Apr-2024 01:51:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Rocket\Addon\Cloudflare\Cloudflare" not found in /home/japanese/public_html/wp-content/plugins/wp-rocket-develop/inc/main.php:16
+Stack trace:
+#0 /home/japanese/public_html/wp-content/plugins/wp-rocket-develop/wp-rocket.php(132): require()
+#1 /home/japanese/public_html/wp-admin/includes/plugin.php(2389): include_once('/home/japanese/...')
+#2 /home/japanese/public_html/wp-admin/includes/plugin.php(675): plugin_sandbox_scrape()
+#3 /home/japanese/public_html/wp-admin/plugins.php(60): activate_plugin()
+#4 {main}
+  thrown in /home/japanese/public_html/wp-content/plugins/wp-rocket-develop/inc/main.php on line 16
+[10-Apr-2024 01:51:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Rocket\Addon\Cloudflare\Cloudflare" not found in /home/japanese/public_html/wp-content/plugins/wp-rocket-develop/inc/main.php:16
+Stack trace:
+#0 /home/japanese/public_html/wp-content/plugins/wp-rocket-develop/wp-rocket.php(132): require()
+#1 /home/japanese/public_html/wp-admin/includes/plugin.php(2389): include_once('/home/japanese/...')
+#2 /home/japanese/public_html/wp-admin/includes/plugin.php(675): plugin_sandbox_scrape()
+#3 /home/japanese/public_html/wp-admin/plugins.php(60): activate_plugin()
+#4 {main}
+  thrown in /home/japanese/public_html/wp-content/plugins/wp-rocket-develop/inc/main.php on line 16
+[10-Apr-2024 01:51:46 UTC] File does not exist or is outside restricted basedir. input:/home/japanese/public_html/wp-content/cache/wp-rocket
+[10-Apr-2024 01:51:46 UTC] File does not exist or is outside restricted basedir. input:/home/japanese/public_html/wp-content/cache/min
+[10-Apr-2024 01:51:46 UTC] File does not exist or is outside restricted basedir. input:/home/japanese/public_html/wp-content/cache/busting
+[10-Apr-2024 01:51:46 UTC] File does not exist or is outside restricted basedir. input:/home/japanese/public_html/wp-content/cache/critical-css
+[10-Apr-2024 01:51:46 UTC] File does not exist or is outside restricted basedir. input:/home/japanese/public_html/wp-content/cache/used-css
+[10-Apr-2024 01:51:46 UTC] File does not exist or is outside restricted basedir. input:/home/japanese/public_html/wp-content/wp-rocket-config/
+[26-Aug-2024 04:26:33 UTC] PHP Warning:  Attempt to read property "title" on null in /home/japanese/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[26-Aug-2024 04:29:15 UTC] PHP Warning:  Attempt to read property "title" on null in /home/japanese/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[31-Aug-2024 21:07:11 UTC] PHP Warning:  Attempt to read property "title" on null in /home/japanese/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[31-Aug-2024 22:00:20 UTC] PHP Warning:  Undefined array key "id" in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[31-Aug-2024 22:00:20 UTC] PHP Warning:  Undefined array key "id" in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[31-Aug-2024 22:00:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:00:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:00:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:00:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:00:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:00:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:00:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:00:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:00:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:03:05 UTC] PHP Warning:  Undefined array key "id" in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[31-Aug-2024 22:03:05 UTC] PHP Warning:  Undefined array key "id" in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[31-Aug-2024 22:03:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:03:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:03:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:03:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:03:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:03:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:03:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:03:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:03:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:08:21 UTC] PHP Warning:  Undefined array key "id" in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[31-Aug-2024 22:08:21 UTC] PHP Warning:  Undefined array key "id" in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[31-Aug-2024 22:08:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:08:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:08:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:08:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:08:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:08:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:08:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:08:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 22:08:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[31-Aug-2024 23:25:22 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:28:01 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:28:01 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:28:01 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:30:22 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:30:22 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:30:22 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:34:17 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:34:17 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:34:17 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:44:09 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:44:09 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:44:09 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:44:54 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:44:54 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:44:54 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:46:42 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:46:42 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:46:42 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:48:35 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:48:35 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:48:35 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:49:17 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:49:17 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:49:17 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:49:39 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:49:39 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:49:39 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:52:12 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:52:12 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[31-Aug-2024 23:52:13 UTC] PHP Warning:  Undefined array key "file" in /home/japanese/public_html/wp-includes/media.php on line 1745
+[01-Sep-2024 18:06:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 18:06:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 18:06:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 18:06:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 18:06:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 18:06:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 18:06:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 18:06:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 18:06:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 21:28:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 21:28:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 21:28:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 21:28:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 21:28:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 21:28:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 21:28:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 21:28:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 21:28:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/japanese/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[01-Sep-2024 21:31:34 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/japanese/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
